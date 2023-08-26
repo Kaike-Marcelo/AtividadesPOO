@@ -11,10 +11,10 @@ utilizados para a contagem dos votos obedecem a seguinte codificação:
 Elaborar um algoritmo que leia o código do candidato em um voto.
 Calcule e escreva: 
 
-**a)**total de votos para cada candidato;
+**a)** total de votos para cada candidato;
 
-**b)**total de votos nulos;
+**b)** total de votos nulos;
 
-**c)**total de votos em branco;
+**c)** total de votos em branco;
 
 Como finalizador do conjunto de votos, tem-se o valor 0.
